@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![AI Project](https://img.shields.io/badge/Project-Brain_Stroke_Detection-critical?logo=brain)
+![AI Project](https://img.shields.io/badge/Project-Brain_Tumor_Detection-critical?logo=brain)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
