@@ -82,7 +82,7 @@ python app.py
 
 | Input MRI | Output Detection |
 |----------|------------------|
-| ![test1](images/test1.jpg) | ![result1](images/result1.png) |
+| ![test1](images/test.jpg) | ![result1](images/result.png) |
 | ![test2](images/test2.jpg) | ![result2](images/result2.png) |
 
 ---
